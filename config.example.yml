@@ -1,0 +1,11 @@
+config: config.yml
+data-directory: deploy/data/
+debug: false
+log-to-file: false
+log-to-file-compress: false
+log-to-file-max-age: 28
+log-to-file-max-backups: 3
+log-to-file-max-size: 500
+log-to-file-path: /tmp/shellshare.log
+log-to-stdout: true
+time-format: 2006/01/02 - 15:04:05
